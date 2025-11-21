@@ -13,7 +13,7 @@
 
 **LifeNext** is an Android mobile application designed to help users build healthy habits, track their moods, and maintain hydration consistency through smart reminders — all inside a clean, calming interface.
 
-This project is a **permitted adaptation** of the **WellnessBuddy** app by **Tharushi Rajapaksha**. I reused the core codebase with full approval, and rebranded the product as LifeNext with new visuals (logo, images, palette). The objective is to evolve the same wellness value proposition under a fresh identity and roadmap.
+This project is a **permitted adaptation** of the **WellnessBuddy** app by **Tharushi Paranagama**. I reused the core codebase with full approval, and rebranded the product as LifeNext with new visuals (logo, images, palette). The objective is to evolve the same wellness value proposition under a fresh identity and roadmap.
 
 ---
 
