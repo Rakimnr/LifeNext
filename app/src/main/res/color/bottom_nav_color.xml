@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected state: primary -->
+    <item android:state_checked="true" android:color="@color/accent_green" />
+    <!-- Unselected state: subdued/ash-tinted icon text -->
+    <item android:color="@color/gray_light" />
+</selector>

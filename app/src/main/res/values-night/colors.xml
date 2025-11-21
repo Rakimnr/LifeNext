@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 60-30-10 Palette | Night -->
+    <!-- 60% Neutrals / Surfaces (dark-first) -->
+    <color name="background_light">#0F172A</color>
+    <color name="background_dark">#0B1120</color>
+    <color name="surface_dark">#111827</color>
+
+    <!-- Text on dark -->
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_secondary">#A7B6C2</color>
+    <color name="text_tertiary">#7A8DA1</color>
+    <color name="text_hint">#6B7280</color>
+
+    <!-- Grays tuned for dark -->
+    <color name="gray">#94A3B8</color>
+    <color name="gray_light">#64748B</color>
+
+    <!-- 30% Primary (slightly brighter for dark) -->
+    <color name="primary_green">#00A7C6</color>
+    <color name="primary_dark_green">#00839B</color>
+    <color name="secondary_green">#34D3E6</color>
+
+    <!-- Utility tints/shades -->
+    <color name="light_green">#0FB7CC</color>
+    <color name="very_light_green">#083C44</color>
+    <color name="dark_green">#066575</color>
+    <color name="green_pressed">#05505D</color>
+
+    <!-- 10% Accent -->
+    <color name="accent_green">#CB6CE6</color>
+
+    <!-- System / Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Top chrome -->
+    <color name="status_bar">#00839B</color>
+
+    <!-- Buttons -->
+    <color name="button_background">#00A7C6</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Indicators -->
+    <color name="tick_color">#22C55E</color>
+    <color name="red_500">#EF4444</color>
+
+    <!-- State -->
+    <color name="success">#22C55E</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#00A7C6</color>
+</resources>
